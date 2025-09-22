@@ -187,7 +187,8 @@ downloads/
 ---
 
 ## 📬 聯絡
-- 作者：Your Name（NCCU）
-- Email：your@email
+- 作者：劉永漢NCCU）
+- Email：hankliu0223@gmail.com
 - Issues：歡迎提問/回報 bug
+
 
