@@ -138,8 +138,8 @@ _dupe_trash/
 ---
 
 ## 📬 聯絡
-- 作者：Your Name（NCCU）
-- Email：your@email
+- 作者：劉永漢（NCCU）
+- Email：hankliu0223@gmail.com
 
 ---
 
